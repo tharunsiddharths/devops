@@ -1,4 +1,2 @@
-Hello World.
-How Are You?
-I Am Good...
+A Workflow for my Hello World App
 ![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
