@@ -3,3 +3,6 @@
 [![LICENSE](https://img.shields.io/github/license/tharunsiddharths/devops.svg?style=flat-square)](https://github.com/tharunsiddharths/devops/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/tharunsiddharths/devops/all.svg?style=flat-square)](https://github.com/tharunsiddharths/devops/releases)
+
+# DevOps
+![GitHub Workflow Status (develop branch)](https://github.com/tharunsiddharths/devops/actions/workflows/main.yml/badge.svg?branch=develop)
