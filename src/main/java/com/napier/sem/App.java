@@ -8,7 +8,7 @@ import org.bson.Document;
 
 public class App {
     public static void main(String[] args) {
-        // Connect to MongoDB - using MongoClients.create() for MongoDB 4.x+
+        // Connect to MongoDB using MongoClients.create() for MongoDB 4.x+
         MongoClient mongoClient = MongoClients.create("mongodb://localhost:27017"); // Adjust your MongoDB connection string as needed
 
         // Get a database - will create it when used
